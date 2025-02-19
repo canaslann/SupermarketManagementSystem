@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>logout.png</file>
+    <file>products.png</file>
+    <file>worker.png</file>
+    <file>login.png</file>
+    <file>cart.png</file>
+  </qresource>
+</RCC>
